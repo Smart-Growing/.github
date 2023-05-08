@@ -1,5 +1,5 @@
-
-# Hydroponic Realtime Remote Management
+# On Progress Project
+## Hydroponic Realtime Remote Management
 
   <p align="justify">
   Smart Growing IoT Systems allows you to supervise the health and nutrition of your hydroponic plants, 
