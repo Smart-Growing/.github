@@ -1,4 +1,4 @@
-# On Progress Project
+
 ## Hydroponic Realtime Remote Management
 
   <p align="justify">
